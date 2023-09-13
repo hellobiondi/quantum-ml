@@ -1,0 +1,68 @@
+
+C used is 1e-05, tau used is 10
+Training time: 0 seconds
+
+C used is 1e-05, tau used is 10
+Training time: 0 seconds
+[[890  23]
+ [ 47  40]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.95      0.97      0.96       913
+         1.0       0.63      0.46      0.53        87
+
+    accuracy                           0.93      1000
+   macro avg       0.79      0.72      0.75      1000
+weighted avg       0.92      0.93      0.92      1000
+F2 score:0.48661800486618
+Validation time: 40 seconds
+--------------------------------------------------
+C used is 1e-05, tau used is 25
+Training time: 1 seconds
+[[833  80]
+ [  9  78]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.91      0.95       913
+         1.0       0.49      0.90      0.64        87
+
+    accuracy                           0.91      1000
+   macro avg       0.74      0.90      0.79      1000
+weighted avg       0.95      0.91      0.92      1000
+F2 score:0.7707509881422925
+Validation time: 93 seconds
+--------------------------------------------------
+C used is 1e-05, tau used is 50
+Training time: 5 seconds
+[[913   0]
+ [ 87   0]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.91      1.00      0.95       913
+         1.0       0.00      0.00      0.00        87
+
+    accuracy                           0.91      1000
+   macro avg       0.46      0.50      0.48      1000
+weighted avg       0.83      0.91      0.87      1000
+F2 score:0.0
+Validation time: 180 seconds
+--------------------------------------------------
+C used is 1e-05, tau used is 100
+Training time: 19 seconds
+[[889  24]
+ [ 57  30]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.94      0.97      0.96       913
+         1.0       0.56      0.34      0.43        87
+
+    accuracy                           0.92      1000
+   macro avg       0.75      0.66      0.69      1000
+weighted avg       0.91      0.92      0.91      1000
+F2 score:0.3731343283582089
+Validation time: 375 seconds
+--------------------------------------------------

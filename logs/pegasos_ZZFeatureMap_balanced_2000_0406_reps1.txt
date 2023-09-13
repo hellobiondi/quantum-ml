@@ -1,0 +1,390 @@
+
+C used is 1e-05, tau used is 25
+Training time: 2 seconds
+
+C used is 1e-05, tau used is 10
+Training time: 0 seconds
+[[913   0]
+ [ 87   0]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.91      1.00      0.95       913
+         1.0       0.00      0.00      0.00        87
+
+    accuracy                           0.91      1000
+   macro avg       0.46      0.50      0.48      1000
+weighted avg       0.83      0.91      0.87      1000
+F2 score:0.0
+Validation time: 54 seconds
+--------------------------------------------------
+C used is 1e-05, tau used is 25
+Training time: 2 seconds
+[[746 167]
+ [  0  87]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.82      0.90       913
+         1.0       0.34      1.00      0.51        87
+
+    accuracy                           0.83      1000
+   macro avg       0.67      0.91      0.70      1000
+weighted avg       0.94      0.83      0.87      1000
+F2 score:0.7225913621262458
+Validation time: 149 seconds
+--------------------------------------------------
+C used is 1e-05, tau used is 50
+Training time: 7 seconds
+[[913   0]
+ [ 87   0]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.91      1.00      0.95       913
+         1.0       0.00      0.00      0.00        87
+
+    accuracy                           0.91      1000
+   macro avg       0.46      0.50      0.48      1000
+weighted avg       0.83      0.91      0.87      1000
+F2 score:0.0
+Validation time: 298 seconds
+--------------------------------------------------
+C used is 1e-05, tau used is 100
+Training time: 29 seconds
+[[913   0]
+ [ 87   0]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.91      1.00      0.95       913
+         1.0       0.00      0.00      0.00        87
+
+    accuracy                           0.91      1000
+   macro avg       0.46      0.50      0.48      1000
+weighted avg       0.83      0.91      0.87      1000
+F2 score:0.0
+Validation time: 584 seconds
+--------------------------------------------------
+C used is 1e-05, tau used is 200
+Training time: 117 seconds
+[[614 299]
+ [  0  87]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.67      0.80       913
+         1.0       0.23      1.00      0.37        87
+
+    accuracy                           0.70      1000
+   macro avg       0.61      0.84      0.59      1000
+weighted avg       0.93      0.70      0.77      1000
+F2 score:0.5926430517711171
+Validation time: 1145 seconds
+--------------------------------------------------
+C used is 1e-05, tau used is 300
+Training time: 260 seconds
+[[846  67]
+ [  9  78]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.93      0.96       913
+         1.0       0.54      0.90      0.67        87
+
+    accuracy                           0.92      1000
+   macro avg       0.76      0.91      0.81      1000
+weighted avg       0.95      0.92      0.93      1000
+F2 score:0.7910750507099391
+Validation time: 1712 seconds
+--------------------------------------------------
+C used is 0.001, tau used is 10
+Training time: 0 seconds
+[[834  79]
+ [ 12  75]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.91      0.95       913
+         1.0       0.49      0.86      0.62        87
+
+    accuracy                           0.91      1000
+   macro avg       0.74      0.89      0.79      1000
+weighted avg       0.94      0.91      0.92      1000
+F2 score:0.747011952191235
+Validation time: 59 seconds
+--------------------------------------------------
+C used is 0.001, tau used is 25
+Training time: 2 seconds
+[[786 127]
+ [  3  84]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.86      0.92       913
+         1.0       0.40      0.97      0.56        87
+
+    accuracy                           0.87      1000
+   macro avg       0.70      0.91      0.74      1000
+weighted avg       0.94      0.87      0.89      1000
+F2 score:0.7513416815742398
+Validation time: 150 seconds
+--------------------------------------------------
+C used is 0.001, tau used is 50
+Training time: 8 seconds
+[[634 279]
+ [  0  87]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.69      0.82       913
+         1.0       0.24      1.00      0.38        87
+
+    accuracy                           0.72      1000
+   macro avg       0.62      0.85      0.60      1000
+weighted avg       0.93      0.72      0.78      1000
+F2 score:0.6092436974789915
+Validation time: 300 seconds
+--------------------------------------------------
+C used is 0.001, tau used is 100
+Training time: 29 seconds
+[[856  57]
+ [ 19  68]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.98      0.94      0.96       913
+         1.0       0.54      0.78      0.64        87
+
+    accuracy                           0.92      1000
+   macro avg       0.76      0.86      0.80      1000
+weighted avg       0.94      0.92      0.93      1000
+F2 score:0.7188160676532771
+Validation time: 584 seconds
+--------------------------------------------------
+C used is 0.001, tau used is 200
+Training time: 113 seconds
+[[913   0]
+ [ 70  17]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.93      1.00      0.96       913
+         1.0       1.00      0.20      0.33        87
+
+    accuracy                           0.93      1000
+   macro avg       0.96      0.60      0.65      1000
+weighted avg       0.93      0.93      0.91      1000
+F2 score:0.2328767123287671
+Validation time: 1105 seconds
+--------------------------------------------------
+C used is 0.001, tau used is 300
+Training time: 249 seconds
+[[756 157]
+ [  0  87]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.83      0.91       913
+         1.0       0.36      1.00      0.53        87
+
+    accuracy                           0.84      1000
+   macro avg       0.68      0.91      0.72      1000
+weighted avg       0.94      0.84      0.87      1000
+F2 score:0.7347972972972973
+Validation time: 1608 seconds
+--------------------------------------------------
+C used is 1, tau used is 10
+Training time: 0 seconds
+[[  0 913]
+ [  0  87]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00       913
+         1.0       0.09      1.00      0.16        87
+
+    accuracy                           0.09      1000
+   macro avg       0.04      0.50      0.08      1000
+weighted avg       0.01      0.09      0.01      1000
+F2 score:0.32270029673590506
+Validation time: 59 seconds
+--------------------------------------------------
+C used is 1, tau used is 25
+Training time: 2 seconds
+[[913   0]
+ [ 65  22]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.93      1.00      0.97       913
+         1.0       1.00      0.25      0.40        87
+
+    accuracy                           0.94      1000
+   macro avg       0.97      0.63      0.68      1000
+weighted avg       0.94      0.94      0.92      1000
+F2 score:0.29729729729729726
+Validation time: 150 seconds
+--------------------------------------------------
+C used is 1, tau used is 50
+Training time: 7 seconds
+[[913   0]
+ [ 87   0]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.91      1.00      0.95       913
+         1.0       0.00      0.00      0.00        87
+
+    accuracy                           0.91      1000
+   macro avg       0.46      0.50      0.48      1000
+weighted avg       0.83      0.91      0.87      1000
+F2 score:0.0
+Validation time: 287 seconds
+--------------------------------------------------
+C used is 1, tau used is 100
+Training time: 29 seconds
+[[912   1]
+ [ 49  38]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.95      1.00      0.97       913
+         1.0       0.97      0.44      0.60        87
+
+    accuracy                           0.95      1000
+   macro avg       0.96      0.72      0.79      1000
+weighted avg       0.95      0.95      0.94      1000
+F2 score:0.49095607235142125
+Validation time: 594 seconds
+--------------------------------------------------
+C used is 1, tau used is 200
+Training time: 114 seconds
+[[904   9]
+ [ 47  40]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.95      0.99      0.97       913
+         1.0       0.82      0.46      0.59        87
+
+    accuracy                           0.94      1000
+   macro avg       0.88      0.72      0.78      1000
+weighted avg       0.94      0.94      0.94      1000
+F2 score:0.5037783375314862
+Validation time: 1142 seconds
+--------------------------------------------------
+C used is 1, tau used is 300
+Training time: 251 seconds
+[[867  46]
+ [ 17  70]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.98      0.95      0.96       913
+         1.0       0.60      0.80      0.69        87
+
+    accuracy                           0.94      1000
+   macro avg       0.79      0.88      0.83      1000
+weighted avg       0.95      0.94      0.94      1000
+F2 score:0.7543103448275862
+Validation time: 1660 seconds
+--------------------------------------------------
+C used is 100, tau used is 10
+Training time: 0 seconds
+[[840  73]
+ [ 29  58]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.97      0.92      0.94       913
+         1.0       0.44      0.67      0.53        87
+
+    accuracy                           0.90      1000
+   macro avg       0.70      0.79      0.74      1000
+weighted avg       0.92      0.90      0.91      1000
+F2 score:0.6054279749478079
+Validation time: 11 seconds
+--------------------------------------------------
+C used is 100, tau used is 25
+Training time: 1 seconds
+[[854  59]
+ [ 14  73]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       0.98      0.94      0.96       913
+         1.0       0.55      0.84      0.67        87
+
+    accuracy                           0.93      1000
+   macro avg       0.77      0.89      0.81      1000
+weighted avg       0.95      0.93      0.93      1000
+F2 score:0.7604166666666665
+Validation time: 60 seconds
+--------------------------------------------------
+C used is 100, tau used is 50
+Training time: 3 seconds
+[[811 102]
+ [  1  86]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.89      0.94       913
+         1.0       0.46      0.99      0.63        87
+
+    accuracy                           0.90      1000
+   macro avg       0.73      0.94      0.78      1000
+weighted avg       0.95      0.90      0.91      1000
+F2 score:0.8022388059701492
+Validation time: 120 seconds
+--------------------------------------------------
+C used is 100, tau used is 100
+Training time: 12 seconds
+[[790 123]
+ [  0  87]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.87      0.93       913
+         1.0       0.41      1.00      0.59        87
+
+    accuracy                           0.88      1000
+   macro avg       0.71      0.93      0.76      1000
+weighted avg       0.95      0.88      0.90      1000
+F2 score:0.7795698924731183
+Validation time: 186 seconds
+--------------------------------------------------
+C used is 100, tau used is 200
+Training time: 41 seconds
+[[811 102]
+ [  1  86]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.89      0.94       913
+         1.0       0.46      0.99      0.63        87
+
+    accuracy                           0.90      1000
+   macro avg       0.73      0.94      0.78      1000
+weighted avg       0.95      0.90      0.91      1000
+F2 score:0.8022388059701492
+Validation time: 391 seconds
+--------------------------------------------------
+C used is 100, tau used is 300
+Training time: 92 seconds
+[[837  76]
+ [  1  86]]
+-----------
+              precision    recall  f1-score   support
+
+         0.0       1.00      0.92      0.96       913
+         1.0       0.53      0.99      0.69        87
+
+    accuracy                           0.92      1000
+   macro avg       0.76      0.95      0.82      1000
+weighted avg       0.96      0.92      0.93      1000
+F2 score:0.8431372549019609
+Validation time: 569 seconds
+--------------------------------------------------
+
+The best parameters found based on F2-score is C=100, and tau=300. Highest F2-score of 0.8431372549019609
